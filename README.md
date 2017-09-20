@@ -74,7 +74,7 @@ The 0.10" pin headers can be sourced from a number of locations:
 The board is currently shared on [OSHPark][oshpark] and can be ordered.  The
 cost is $9.95 (USD) with a turnaround time of approximately 15 calendar days.
 
-The Olimex [iCE40HX8K][olimex-parts] evaluation board can be purchased
+The Olimex [iCE40HX8K][olimex-fpga-source] evaluation board can be purchased
 through [Olimex][olimex-fpga].
 
 
@@ -89,6 +89,7 @@ APACHE 2.
 
 [olimex]: https://www.olimex.com/
 [olimex-fpga]: https://www.olimex.com/Products/FPGA/iCE40/iCE40HX8K-EVB/open-source-hardware
+[olimex-fpga-source]: https://github.com/OLIMEX/iCE40HX8K-EVB
 [olimex-parts]: https://github.com/OLIMEX/KiCAD
 [oshpark]: https://oshpark.com/shared_projects/dG68p194
 
