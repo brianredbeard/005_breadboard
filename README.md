@@ -35,6 +35,21 @@ should be usable for other projects with similar footprint needs.
 └── .pretty                           - folder of local project footprints
 ```
 
+## Screenshots
+
+Top of board:
+
+![Top of board](/005_breadboard_top.png?raw=true "Board Top")
+
+
+Bottom of board:
+
+![Bottom of board](/005_breadboard_bottom.png?raw=true "Board Bottom")
+
+## Schematic
+
+A simple PDF of the schematic can be downloaded [here](/005_breadboard_schematic.pdf)
+
 ## Ordering
 
 The board is currently shared on [OSHPark][oshpark] and can be ordered.  The
